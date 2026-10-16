@@ -1,6 +1,6 @@
 # Glossary
 
-Quick definitions, A to Z. For the bigger ideas and why they matter, see [Concepts](concepts.md).
+Quick definitions, A to Z.
 
 ### Branch
 A separate line of work in git. You make changes on a branch, and `main` stays safe until your PR merges.

@@ -33,7 +33,7 @@ Look up:
 
 ### 2.2 Characters
 
-Make a `Character` [class](../../docs/glossary.md#class) that holds its own name, health, and attack. It knows how to take damage and whether it's still alive. Write tests that prove health never drops below 0 or goes above the maximum.
+Make a `Character` [class](../../docs/design.md#classes) that holds its own name, health, and attack. It knows how to take damage and whether it's still alive. Write tests that prove health never drops below 0 or goes above the maximum.
 
 A class is like a Scratch sprite: its own variables and its own scripts. Each `new Character(...)` is like a clone.
 
@@ -58,7 +58,7 @@ Look up:
 
 Move the fight into a class. Fight 3 monsters in a row, using a list. `Main` only starts things.
 
-Each class should have one clear job ([high cohesion](../../docs/glossary.md#cohesion)) and know as little as possible about the others ([low coupling](../../docs/glossary.md#coupling)). Watch the video first, then check your classes against it.
+Each class should have one clear job ([high cohesion](../../docs/design.md#cohesion-and-coupling)) and know as little as possible about the others ([low coupling](../../docs/design.md#cohesion-and-coupling)). Watch the video first, then check your classes against it.
 
 Look up:
 - [Coupling and cohesion explained (Gui Ferreira video)](https://www.youtube.com/watch?v=7pdrZDqEPIw)
@@ -124,5 +124,3 @@ Look up:
 
 - If you added a map with rooms, what would have to change in your code?
 - Which classes would you be scared to touch? Why?
-
-Check what you learned: [Concepts, Stage 2](../../docs/concepts.md#stage-2-math-arena).

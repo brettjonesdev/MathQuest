@@ -50,3 +50,8 @@ git push origin stage-1-done
 ([Git tagging](https://git-scm.com/book/en/v2/Git-Basics-Tagging))
 
 Later, you can compare two stages on GitHub to see everything that changed: `https://github.com/<you>/MathQuest/compare/stage-1-done...stage-2-done`. ([Comparing commits](https://docs.github.com/en/pull-requests/how-tos/commit-changes/comparing-commits))
+
+## Learn more
+
+- [GitHub Hello World](https://docs.github.com/en/get-started/using-github/hello-world): a first walkthrough of repositories, branches, and PRs
+- [Branches in a nutshell (Pro Git)](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)

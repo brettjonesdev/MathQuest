@@ -41,14 +41,14 @@ Steps say *what* the game should do, not *how* to code it. Figuring out the how 
 ## Help
 
 - [Glossary](docs/glossary.md): what a word means.
-- [Concepts](docs/concepts.md): the big ideas, stage by stage. Read the section when you finish a stage.
-- [Resources](docs/resources.md): every video, doc, and book, by topic.
+- [Learn C#](docs/learn-csharp.md): courses to work through alongside the stages.
+- [Design](docs/design.md): classes, OOP, and design principles.
 
 ## Repository layout
 
 ```
 README.md                  this file
-docs/                      setup, workflow, testing, glossary, concepts, and more
+docs/                      setup, workflow, testing, glossary, design, and more
 stages/                    one README per stage
 .github/                   pull request template (and later, your CI workflows)
 MathQuest.slnx             the solution file; you create it in Getting started

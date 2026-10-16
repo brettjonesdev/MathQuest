@@ -40,3 +40,8 @@ It's a console game, so it opens in a terminal window. That's expected.
 ## Stay safe
 
 Your repository is public. Use a username or handle in the game credits and release notes, not your full name, school, or where you live.
+
+## Learn more
+
+- [dotnet publish](https://learn.microsoft.com/en-us/dotnet/core/tools/dotnet-publish): every option for building your game
+- [action-gh-release](https://github.com/softprops/action-gh-release): a ready-made Action for posting releases, for [Step 2.9](../stages/2-math-arena/README.md#29-robots-ship-your-game)

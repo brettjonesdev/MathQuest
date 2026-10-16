@@ -88,5 +88,3 @@ Pick two from the menu. Plan each one in an issue first, then link the issue fro
 
 - Could you swap the console for a different screen without touching your game logic? What would still get in the way?
 - Start the Unity tutorials in [Step 4.1](../4-unity/README.md#41-hello-unity) now, alongside this stage.
-
-Check what you learned: [Concepts, Stage 3](../../docs/concepts.md#stage-3-math-dungeon).

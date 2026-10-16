@@ -121,5 +121,3 @@ Pick two from the menu. Plan each one in an issue first, then link the issue fro
 - **Monster data in Unity.** Define monsters as Unity assets you can edit in the editor. ([ScriptableObject](https://docs.unity3d.com/Manual/class-ScriptableObject.html))
 - **Both front ends.** Add something new to Core, like a new item or monster, and make it work in the console and in Unity.
 - **Your own idea.** Pitch it in an issue first.
-
-Check what you learned: [Concepts, Stage 4](../../docs/concepts.md#stage-4-mathquest-in-unity).

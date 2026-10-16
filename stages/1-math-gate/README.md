@@ -56,7 +56,7 @@ Look up:
 
 ### 1.5 Split `Main`
 
-[Refactor](../../docs/glossary.md#refactor) `Main` into methods. Each method does one job, and its name says what that job is. Good candidates: making a problem, asking a question, checking an answer. The game plays exactly the same as before.
+[Refactor](../../docs/design.md#refactoring) `Main` into methods. Each method does one job, and its name says what that job is. Good candidates: making a problem, asking a question, checking an answer. The game plays exactly the same as before.
 
 Look up:
 - [Methods (Brackeys video)](https://www.youtube.com/watch?v=bPQx0paXrbw)
@@ -103,5 +103,3 @@ Pick two from the menu. Plan each one in an [issue](../../docs/glossary.md#issue
 - What did you copy and paste more than once?
 
 Write your answers in the PR description of your last Stage 1 PR. Stage 2 starts from there.
-
-Check what you learned: [Concepts, Stage 1](../../docs/concepts.md#stage-1-math-gate).
